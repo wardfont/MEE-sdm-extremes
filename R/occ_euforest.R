@@ -1,3 +1,17 @@
+#' .. content for \description{} (no empty lines) ..
+#' Projects pr_ab data for a species and limits calibaration area with buffer. Spatially thins based on environemntal data resolution.
+#' .. content for \details{} ..
+#'
+#' @title
+#' @param euforest_csv
+#' @param selected_species
+#' @param env_file
+#' @param extent
+#' @param buffer_km
+#' @param epsg
+#' @return
+#' @author Ward Fonteyn
+#' @export
 occ_euforest <- function(euforest_csv, selected_species, env_file, extent,
                          buffer_km, epsg) {
 

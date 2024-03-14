@@ -7,15 +7,19 @@ The `targets` workflow assumes the following file structure and might throw erro
 
 ```bash
 ..
+.
 ├── data
 │   ├── euforest
 │   │   └── EUForestspecies.csv
+│   ├── species_properties
+│   │   └── data.csv
 │   └── terraclimate
 │       └── historical
 │           ├── extent
 │           └── tmp
 ├── install-packages.R
 ├── output
+│   ├── summary
 │   └── terraclimate
 │       └── historical
 │           ├── deriv
@@ -35,13 +39,18 @@ The `targets` workflow assumes the following file structure and might throw erro
 │   ├── metrics_gam.R
 │   ├── model_biovars_euforest.R
 │   ├── model_euforest.R
+│   ├── normal_gev_aic.R
+│   ├── normal_terraclimate.R
 │   ├── occ_euforest.R
 │   ├── partition_euforest.R
 │   ├── plots.R
 │   ├── rep_euforest.R
 │   ├── sdm_terraclimate.R
 │   ├── select-species-euforest.R
-│   └── stewart_terraclimate.R
+│   ├── species_characteristics.R
+│   ├── species_records_summary.R
+│   ├── stewart_terraclimate.R
+│   └── TRY-filter.R
 ├── README.md
 ├── _targets
 └── _targets.R

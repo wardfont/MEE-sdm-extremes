@@ -1,3 +1,14 @@
+#' .. content for \description{} (no empty lines) ..
+#' Calcualte GEV parameters based on vector of monthly data.
+#' .. content for \details{} ..
+#'
+#' @title
+#' @param x
+#' @param ret_per
+#' @param side
+#' @return
+#' @author Ward Fonteyn
+#' @export
 katz_extremes <- function(x, ret_per, side) {
 
     ## There were two problems:

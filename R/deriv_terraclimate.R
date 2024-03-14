@@ -1,3 +1,12 @@
+#' .. content for \description{} (no empty lines) ..
+#' Derive Tmaxhm, Tmincm and Pptqdq from tmax, tmin and ppt.
+#' .. content for \details{} ..
+#' Derives the maximum temperature of the hottest month, minimum temperature of the coldes month and precipitation of the driest quarter (using rolling quarters) for each year of a time series.
+#' @title
+#' @param tc_dl Return from the terracliamte_download funtion.
+#' @return
+#' @author Ward Fonteyn
+#' @export
 deriv_terraclimate <- function(tc_dl) {
 
     terraclimate_deriv_dir <- paste0("./output/terraclimate/",

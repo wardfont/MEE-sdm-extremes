@@ -1,3 +1,14 @@
+#' .. content for \description{} (no empty lines) ..
+#' Set all data in a nice list
+#' .. content for \details{} ..
+#'
+#' @title
+#' @param euforest_partition
+#' @param model
+#' @param predictor_pattern
+#' @return
+#' @author Ward Fonteyn
+#' @export
 model_euforest <- function(euforest_partition, model, predictor_pattern) {
 
     data <- euforest_partition$data 

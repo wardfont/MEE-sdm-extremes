@@ -1,3 +1,11 @@
+#' .. content for \description{} (no empty lines) ..
+#' Derive biovars
+#' .. content for \details{} ..
+#' @title
+#' @param tc_dl Return from the terracliamte_download funtion.
+#' @return
+#' @author Ward Fonteyn
+#' @export
 biovars_terraclimate <- function(tc_dl) {
 
   terraclimate_biovar_dir <- paste0("./output/terraclimate/",

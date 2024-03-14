@@ -1,0 +1,33 @@
+species,Leaf type,Maximum height,P50,P50-source
+Abies alba,N,60,-2,https://besjournals.onlinelibrary.wiley.com/doi/full/10.1111/1365-2435.12289
+Acer campestre,B,25,-2,"Tissier J, Lambs L, Peltier JP, Marigo G. 2004. Relationships between hydraulic traits and habitat preference for six Acer species occurring in the French Alps. Annals of Forest Science 61: 81-86.
+"
+Acer pseudoplatanus,B,40,-1.6,"Tissier J, Lambs L, Peltier JP, Marigo G. 2004. Relationships between hydraulic traits and habitat preference for six Acer species occurring in the French Alps. Annals of Forest Science 61: 81-86.
+"
+Alnus glutinosa,B,35,-2.2,"Hacke U, Sauter JJ. 1995. Vulnerability of xylem to embolism in relation to leaf water potential and stomatal conductance in Fagus sylvatica f. purpurea and Populus balsamifera. Journal of Experimental Botany 46: 1177-1183. "
+Alnus incana,B,25,-1.7,"Sperry JS, Nichols KL, Sullivan JEM, Eastlack SE. 1994. Xylem embolism in ring-porous, diffuse-porous and coniferous trees of northern Utah and interior Alaska. Ecology 75: 1736-1752."
+Betula pendula,B,30,-2.4,"Herbette S, Cochard H 2010. Calcium is a major determinant of xylem vulnerability to cavitation. Plant Physiology 153: 1932-1939."
+Betula pubescens,B,30,,
+Carpinus betulus,B,30,-3.75,"Herbette S, Cochard H 2010. Calcium is a major determinant of xylem vulnerability to cavitation. Plant Physiology 153: 1932-1939."
+Castanea sativa,B,35,,
+Fagus sylvatica,B,45,-3.2,"Cochard H, Lemoine D, Dreyer E. 1999. The effects of acclimation to sunlight on the xylem vulnerability to embolism in Fagus sylvatica L. Plant, Cell and Environment 22: 101–108."
+Fraxinus excelsior,B,42,-2.8,"Cochard H, Peiffer M, Le Gall K, Granier A. 1997. Developmental control of xylem hydraulic resistances and vulnerability to embolism in Fraxinus excelsior L: impacts on water relations. Journal of Experimental Botany 48: 655-663."
+Larix decidua,N,52,-3,https://besjournals.onlinelibrary.wiley.com/doi/full/10.1111/1365-2435.12289
+Picea abies,N,60,-1.75,https://besjournals.onlinelibrary.wiley.com/doi/full/10.1111/1365-2435.12289
+Picea sitchensis,N,60.96,,
+Pinus halepensis,N,27,-1.4,"Klein T, Cohen S, Yakir D (2011) Hydraulic adjustments underlying drought resistance of Pinus halepensis. Tree Physiology 31: 637-648."
+Pinus nigra,N,40,,
+Pinus pinaster,N,35,,
+Pinus sylvestris,N,50,-2.15,https://besjournals.onlinelibrary.wiley.com/doi/full/10.1111/1365-2435.12289
+Populus tremula,B,35,-1.3,"Tognetti R, Longobucco A, Raschi A. 1999. Seasonal embolisms and xylem vulnerability in deciduous and evergreen Mediterranean trees influenced by proximity to a carbon dioxide spring. Tree Physiology 19: 271-277.
+"
+Prunus avium,B,35,-4.76,"Cochard H, Casella E, Mencuccini M. 2007 Xylem vulnerability to cavitation varies among poplar and willow clones and correlates with yield. Tree Physiology 27: 1761-1767."
+Pseudotsuga menziesii,N,100,,
+Quercus ilex,B,30,-2.02,"Martínez-Vilalta J, Prat E, Oliveras I, Piñol J.  2002. Xylem hydraulic properties of roots and stems of nine Mediterranean woody species. Oecologia 133: 19-29. "
+Quercus petraea,B,45,-3.5,"Cochard H, Breda N, Granier A, Aussenac G. 1992. Vulnerability to air-embolism of 3 European oak species (Quercus petraea (Matt) Liebl, Quercus pubescens Willd, Quercus robur L). Annales des Sciences Forestières 49: 225-233. + unpublished data"
+Quercus pubescens,B,25,-3.3,"Tognetti R, Longobucco A, Raschi A. 1998. Vulnerability of xylem to embolism in relation to plant hydraulic resistance in Quercus pubescens and Quercus ilex co-occurring in a Mediterranean coppice stand in central Italy. The New Phytologist 139: 347-448.
+"
+Quercus robur,B,52,-2.8,"Cochard H, Tyree MT. 1990. Xylem dysfunction in Quercus: vessel sizes, tyloses, cavitation and seasonal changes in embolism. Tree Physiology 6: 393-407."
+Robinia pseudoacacia,B,30,-0.5,"Pratt RB, Black RA. 2006. Do invasive trees have a hydraulic advantage over native trees? Biological Invasions 8: 1331-341."
+Salix caprea,B,18,-1.9,"Cochard H, Damour G, Bodet C, Tharwat I, Poirier M, Améglio T 2005. Evaluation of a new centrifuge technique for rapid generation of xylem vulnerability curves. Physiologia Plantarum 124: 410-418."
+Sorbus aucuparia,B,20,-4.19,"Herbette S, Cochard H 2010. Calcium is a major determinant of xylem vulnerability to cavitation. Plant Physiology 153: 1932-1939."

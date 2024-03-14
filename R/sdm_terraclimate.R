@@ -1,3 +1,14 @@
+#' .. content for \description{} (no empty lines) ..
+#' Join all data in a single spatRaster and include it in list.
+#' .. content for \details{} ..
+#'
+#' @title
+#' @param terraclimate_stewart
+#' @param terracliamte_katz
+#' @param extent
+#' @return
+#' @author Ward Fonteyn
+#' @export
 sdm_terraclimate <- function(terraclimate_stewart, terraclimate_katz, extent) {
 
     stewart <- rast(terraclimate_stewart$files)

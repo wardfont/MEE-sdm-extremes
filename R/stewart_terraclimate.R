@@ -1,3 +1,13 @@
+#' .. content for \description{} (no empty lines) ..
+#' Calculate empirical quantile paramters from derived data.
+#' .. content for \details{} ..
+#'
+#' @title
+#' @param tc_dv
+#' @param return_periods
+#' @return
+#' @author Ward Fonteyn
+#' @export
 stewart_terraclimate <- function(tc_dv, return_periods) {
 
   terraclimate_stewart_dir <- paste0("./output/terraclimate/",

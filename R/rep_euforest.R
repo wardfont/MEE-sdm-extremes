@@ -1,3 +1,13 @@
+#' .. content for \description{} (no empty lines) ..
+#' Create random repetitions
+#' .. content for \details{} ..
+#'
+#' @title
+#' @param euforest
+#' @param reps
+#' @return
+#' @author Ward Fonteyn
+#' @export
 rep_euforest <- function(euforest, reps) {
 
     set.seed(1996)    

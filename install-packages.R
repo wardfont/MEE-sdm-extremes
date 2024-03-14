@@ -4,7 +4,7 @@ packages <- c("targets","tarchetypes", "conflicted",
               "future", "future.callr", "clustermq",
               "parallel", "RcolorBrewer", "gbm",
               "tidyterra", "ggpubr", "PMCMRplus",
-              "xtable", "ggVennDiagram", "ggcorrplot")
+              "xtable", "ggVennDiagram")
 
 lapply(packages, function(somepackage){
 if(!require(somepackage, character.only = T)){install.packages(somepackage)}

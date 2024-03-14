@@ -1,3 +1,11 @@
+#' .. content for \description{} (no empty lines) ..
+#' .. content for \details{} ..
+#'
+#' @title
+#' @param euforest_csv
+#' @return
+#' @author Ward Fonteyn
+#' @export
 select_species_euforest <- function(euforest_csv, env_file, extent,
                          buffer_km, epsg, n_lim = 4000) {
 

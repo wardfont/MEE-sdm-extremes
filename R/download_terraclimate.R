@@ -1,3 +1,15 @@
+#' .. content for \description{} (no empty lines) ..
+#' Download a cropped version of the terraclimate dataset.
+#' .. content for \details{} ..
+#' See https://www.climatologylab.org/
+#' The function saves the full .nc raster in a temporary folder before cropping and saving crop as .tif. The temorary file is removed afterwards. If the cropped file already exists, the function makes sure the extent matches the wished study area extent. 
+#' @title
+#' @param terraclimate_vars Can be aet, def, pet, ppt, q, soil, srad, swe, tmax, tmin, vap, ws, vpd or pdsi. Provided in a vector as character strings. 
+#' @param terraclimate_grid vector with scenario, being either "historical", "plus2c" or "plus4c", and clim_years specifying the years to be downloaded as "YYYY-YYYY".
+#' @param wkt Defined in well-known-text format
+#' @return
+#' @author Ward Fonteyn
+#' @export
 download_terraclimate <- function(terraclimate_vars, terraclimate_grid, wkt) {
 
     scenario <- terraclimate_grid$scenario

@@ -1,3 +1,13 @@
+#' .. content for \description{} (no empty lines) ..
+#' Calculate GEV parameters from derived data
+#' .. content for \details{} ..
+#'
+#' @title
+#' @param tc_dv
+#' @param return_periods
+#' @return
+#' @author Ward Fonteyn
+#' @export
 katz_terraclimate <- function(tc_dv, return_periods) {
 
 

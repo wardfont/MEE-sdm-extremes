@@ -1,3 +1,13 @@
+#' .. content for \description{} (no empty lines) ..
+#' fit gam
+#' .. content for \details{} ..
+#'
+#' @title
+#' @param euforest_model
+#' @param fold_name
+#' @return
+#' @author Ward Fonteyn
+#' @export
 gam_euforest <- function(euforest_model,
                               threshold,
                               fold_name) {
