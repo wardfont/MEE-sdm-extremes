@@ -1,4 +1,4 @@
-# The generalised extreme value distribution of climatic extremes improves species distribution modelling: Code and Data
+# Incorporating climatic extremes in species distribution models using the generalised extreme value distribution: Code and Data
 ---
 
 This dataset contains necessary data and code to reproduce the results presented in the research article. The data is either included directly or can be downloaded using the provided code. The code contains a reproducible workflow based on the `targets` R package. More info on the package and its syntax can be found [here](https://books.ropensci.org/targets/).
